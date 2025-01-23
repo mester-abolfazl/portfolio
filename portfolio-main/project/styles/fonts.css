@@ -1,0 +1,20 @@
+@font-face {
+    font-family:'Fira Code bold';
+    src: url(../fonts/FiraCode-Bold.ttf);
+}
+@font-face {
+    font-family:'Fira Code light';
+    src: url(../fonts/FiraCode-Light.ttf);
+}
+@font-face {
+    font-family:'Fira Code medium';
+    src: url(../fonts/FiraCode-Medium.ttf);
+}
+@font-face {
+    font-family:'Fira Code Regular';
+    src: url(../fonts/FiraCode-Regular.ttf);
+}
+@font-face {
+    font-family:'Fira Code Semibold';
+    src: url(../fonts/FiraCode-SemiBold.ttf);
+}
